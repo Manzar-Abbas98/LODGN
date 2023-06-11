@@ -1,0 +1,34 @@
+.date{
+    width: 168px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.display{
+    display: flex;
+    margin-left: 200px;
+    justify-content: space-between;
+    width: 800px;
+
+}
+.subtext{
+    font-family: Lato;
+font-style: Medium;
+font-size: 16.93px;
+line-height: 20px;
+line-height: 100%;
+text-align: Left;
+letter-spacing: -0.5%;
+color:#959595;
+}
+.heading{
+    font-family: lato;
+    font-style: bold;
+    font-size: 29.4px;
+    line-height: 35px;
+    text-align: left;
+    align-items: top;
+    letter-spacing: -1.5%;
+    color:#48af78;
+
+}

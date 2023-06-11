@@ -1,0 +1,36 @@
+.container{
+
+    position: absolute;
+    width: 1114px;
+    height: 226px;
+    left: 402px;
+    top: 159px;
+    
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+    flex-direction: column;
+}
+.judehospital{
+
+    display: flex;
+    justify-content: space-around;
+    width:900px ;
+    margin-top: 50px;
+}
+
+.heading{
+    position: absolute;
+    width: 422px;
+    height: 43px;
+    left: 394px;
+    top: 75.71px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28.5557px;
+    line-height: 43px;  
+    letter-spacing: -0.02em;
+    color: #72AA83;
+
+}
